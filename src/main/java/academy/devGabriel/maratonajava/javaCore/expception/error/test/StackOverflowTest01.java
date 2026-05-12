@@ -1,4 +1,4 @@
-package academy.devGabriel.maratonajava.javaCore.expception.test;
+package academy.devGabriel.maratonajava.javaCore.expception.error.test;
 
 public class StackOverflowTest01 {
     public static void main(String[] args) {
